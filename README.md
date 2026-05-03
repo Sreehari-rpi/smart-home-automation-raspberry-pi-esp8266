@@ -39,5 +39,17 @@ This project is an IoT-based smart home automation system using Raspberry Pi and
 5. Appliances are switched ON/OFF
 
 ---
+http://<raspberry-pi-ip>:5000
+
+
+---
+
+## 🔮 Future Improvements
+- Mobile app control
+- Voice control (Google Assistant / offline)
+- Cloud integration for remote access
+- Energy monitoring system
+
+---
 
 ## 🌐 Access Control Panel
